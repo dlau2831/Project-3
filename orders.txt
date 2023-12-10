@@ -1,0 +1,6 @@
+Light Bulb 60W, 3.0, R
+Light Bulb 100W, 5.99, R
+Steel Bolt M5, 0.15, B
+Steel Bolt M8, 0.25, B
+Hose 25 feet, 10.0, S
+Hose 50 feet, 15.0, S
