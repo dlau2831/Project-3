@@ -1,15 +1,3 @@
-/**
- * ICIS 201 Introduction to Computer Science>
- * Fall 2023
- * Lab Section <Lab section <Friday 11:40 A.M - 12:35 P.M>
- * David Lau
- * DL425467
- * dlau2@albany.edu
- *
- * This project is an inventory management system, it allows the user to view the inventory, create orders and review them.
- * It also uses file storage system to handle items and dates for orders.
- */
-
 // Imports
 import java.io.FileWriter;
 import java.io.IOException;
@@ -20,7 +8,7 @@ import java.io.FileNotFoundException;
 
 
 // Main Class Driver
-public class P3Driver_DL425467 {
+public class Driver {
 	
 	// Main Method
     public static void main(String[] args) {
